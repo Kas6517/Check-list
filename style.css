@@ -1,0 +1,42 @@
+
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  margin: 1rem;
+  background-color: brown;
+}
+
+h1, h3{
+margin-left: 2.6rem
+}
+
+input {
+ margin-left: 2.6rem;
+ padding: .5rem;
+ border-radius: 3px;
+ background-color: #eee;
+}
+
+#btn {
+  padding: 8px 15px;
+  background-color: rgb(216, 208, 195);
+}
+
+ul li {
+  margin: 2px 2px;
+  background-color: bisque;
+  display: block;
+  padding: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  position: relative;
+  text-transform: uppercase;
+}
+
+.btn {
+  font-family: inherit;
+  position: absolute;
+  right: 0px;
+  font-weight: 400;
+}
+
